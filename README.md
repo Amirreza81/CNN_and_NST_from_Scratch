@@ -1,2 +1,2 @@
-# Convolutional Neural Network from Scratch
+# **Convolutional Neural Network and Neural Style Transfer from Scratch**
 
