@@ -1,6 +1,9 @@
 # Convolutional Neural Networks and Neural Style Transfer
 
-A comprehensive guide to implementing Convolutional Neural Networks (CNNs) and Neural Style Transfer (NST) from scratch. This project, completed for an **Applied Data Science** course (Spring 2025), provides a deep dive into the fundamental concepts and practical application of these powerful computer vision techniques.
+A comprehensive guide to implementing Convolutional Neural Networks (CNNs) and Neural Style Transfer (NST) from scratch. This project provides a deep dive into the fundamental concepts and practical application of these powerful computer vision techniques.
+
+👉 **Note:** This project is developed as part of the **Applied Data Science course at Sharif University of Technology**.  
+👉 Repository Link: [GitHub Repo](https://github.com/Amirreza81/Applied-Data-Science-Course)  
 
 ---
 
